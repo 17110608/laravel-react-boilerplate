@@ -3,10 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta property="og:title" content="It's a Wrap | Easy high-quality 3D Mockups" data-rh="true">
-        <meta property="og:description" content="Easily generaite high-quality 3D mockups of your 2D label designs for a variety of standard objects" data-rh="true">
-        <meta property="og:image" content="{{ asset('/images/open-graph.jpg') }}" data-rh="true">
-
+        
         <!-- HTML Meta Tags -->
         <title>{{ config('app.name') }}</title>
 
