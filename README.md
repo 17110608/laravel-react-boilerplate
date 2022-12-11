@@ -1,3 +1,6 @@
+# All credits goes to 
+[figoli-quinn](https://github.com/figoli-quinn/laravel-react-boilerplate)
+
 ## About Laravel React Boilerplate
 
 Welcome! This project was created as a boilerplate / app starter kit for getting up and running with Laravel + ReactJS. I love using React and Laravel, but the resources out in the wild tend to be focused on VueJS, or an integration of something like LiveWire or Inertia. I wanted to create a boilerplate that was focused on ReactJS, and that was easy to get up and running with.
