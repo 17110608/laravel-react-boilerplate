@@ -1,4 +1,4 @@
-# All credits goes to 
+## All credits goes to 
 [figoli-quinn](https://github.com/figoli-quinn/laravel-react-boilerplate)
 
 ## About Laravel React Boilerplate
